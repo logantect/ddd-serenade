@@ -1,0 +1,4 @@
+[submodule "ddd-legacy"]
+	path = ddd-legacy
+	url = git@github.com:jeongjaeeom/ddd-legacy.git
+	branch = jeongjaeeom
